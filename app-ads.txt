@@ -1,0 +1,20 @@
+# app-ads.txt for Guangzhou Nandong Trading Co., Ltd.
+# 
+# This file is used by advertising platforms to verify app ownership and validate ad inventory.
+# 
+# To configure this file for your apps:
+# 1. Sign in to your AdMob account at https://apps.admob.com
+# 2. Go to "Apps" > "App settings"
+# 3. Select your app and click "View app-ads.txt"
+# 4. Copy the generated app-ads.txt content and replace the placeholder below
+# 
+# For more information about app-ads.txt, visit:
+# https://support.google.com/admob/answer/9363763
+#
+# Example configuration after setup:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXX
+# applovin.com, XXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXX
+# facebook.com, XXXXXXXXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXX
+# unity.com, XXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXX
+# ironsrc.com, XXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXX
+# chartboost.com, XXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXXXX
